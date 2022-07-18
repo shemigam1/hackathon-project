@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>About || Starter</title>
+   <style>
+   footer {
+	background-color: #2a2a40;
+	display: flex;
+	justify-content: center;
+}
+
+footer,
+footer a {
+  color: #dfdfe2;
+}
+</style>
+  </head>
+  <body>
+   <h1>About Page</h1>
+   <footer>
+      <address>
+        <a href="https://link">Akatsuki</a><br />
+        Ikeja<br />
+        Lagos<br />
+        Nigeria
+      </address>
+    </footer>
+    
+  </body>
+</html>
